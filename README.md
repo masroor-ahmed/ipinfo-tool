@@ -21,7 +21,7 @@ The IPinfo Tool is a Python script that allows users to retrieve detailed inform
 4. Follow the prompts to enter an IP address. Type 'exit' to quit the tool.
 
 ## API Token
-Make sure to replace the API token in the `ipinfo_tool.py` file with your own token obtained from IPinfo.
+Make sure to replace the API token in the `main.py` file with your own token obtained from IPinfo.
 
 ## Contributing
 Feel free to contribute to this project by opening issues or pull requests.
